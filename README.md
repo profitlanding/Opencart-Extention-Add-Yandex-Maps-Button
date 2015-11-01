@@ -18,7 +18,7 @@
 
 1. Убедитесь, что версия вашего OpenCart 2.0.0.0 и выше (версия отображается в админ-панели внизу страницы)
 
-2. Скачайте ZIP-архив дополнения https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/blob/master/add_yandex_maps_button.ocmod.zip
+2. Скачайте ZIP-архив дополнения http://profitlanding.ru/opencart/extentions/add_yandex_maps_button.ocmod.zip
 
 3. В админ-панели зайдите в "Дополнения" (Extensions) - "Установка дополнений" (Extension installer)
 
