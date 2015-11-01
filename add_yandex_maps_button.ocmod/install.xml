@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <modification>
-    <name>Add Yandex Maps Button to Sales/Orders</name>
+    <name>Add Yandex Maps Button to Sales/Orders [by ProfitLanding.ru]</name>
     <code>add_yandex_maps_button.ocmod</code>
     <version>1.0</version>
-    <author>GreenRobot</author>
-    <link>https://github.com/GreenRobot777</link>
+    <author>GreenRobot (ProfitLanding.ru)</author>
+    <link>https://github.com/profitlanding/opencart-extention-add-yandex-maps-button</link>
     <file path="admin/controller/sale/order.php">
 	<!--	Formatting short address -->
         <operation>
