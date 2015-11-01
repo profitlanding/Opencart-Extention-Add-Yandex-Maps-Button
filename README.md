@@ -1,7 +1,7 @@
 [![OpenCart Version](https://img.shields.io/badge/opencart-2.1.0.1-blue.svg)](http://www.opencart.com/index.php?route=download/download)
 # Дополнение для OpenCart 2: Add Yandex Maps Button to Sales->Order->Info
 
-![OpenCart ScreenShot](https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/blob/master/add_yandex_maps_button.ocmod/screenshot.png)
+![OpenCart ScreenShot](https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/blob/master/images/screenshot.png)
 
 1. Данное дополнение добавляет кнопку "Показать адрес клиента на Яндекс.Картах" в карточке заказа sale/order/info
 Вы можете зайти в карточку оставленного клиентом заказа (Продажи - Заказы - Заказ XXX)
