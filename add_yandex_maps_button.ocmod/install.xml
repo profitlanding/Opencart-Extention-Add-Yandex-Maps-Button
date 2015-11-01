@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modification>
+    <name>Add Yandex Maps Button to Sales/Orders</name>
+    <code>add_yandex_maps_button.ocmod</code>
+    <version>1.0</version>
+    <author>GreenRobot</author>
+    <link>https://github.com/GreenRobot777</link>
+    <file path="admin/controller/sale/order.php">
+	<!--	Formatting short address -->
+        <operation>
+            <search trim="true"><![CDATA[
+			$data['payment_address'] = str_replace(array("\r\n", "\r", "\n"), '<br />', preg_replace(array("/\s\s+/", "/\r\r+/", "/\n\n+/"), '<br />', trim(str_replace($find, $replace, $format))));
+            ]]></search>
+            <add trim="false" position="after" offset="0"><![CDATA[
+			$data['payment_address_short'] = $order_info['payment_address_1'];
+            ]]></add>
+        </operation>
+    </file>
+    <file path="admin/view/template/sale/order_info.tpl">
+	<!--	Adding link-button to header -->
+        <operation>
+            <search trim="true" regex="true" limit="1"><![CDATA[
+            (<div class="pull-right">)
+            ]]></search>
+            <add trim="false"><![CDATA[
+            $0<a href="http://maps.yandex.ru/?text=<?php echo $payment_address_short; ?>" target="_blank" data-toggle="tooltip" title="" class="btn btn-info" data-original-title="Показать адрес на Яндекс.Картах"><i class="fa fa-map-marker"></i></a>&nbsp
+            ]]></add>
+        </operation>
+	<!--	Adding link to shipping address -->
+        <operation>
+            <search regex="true" limit="1"><![CDATA[
+            <?php echo $payment_address; ?>
+            ]]></search>
+            <add trim="true"><![CDATA[
+            <a href="http://maps.yandex.ru/?text=<?php echo $payment_address_short; ?>" target="_blank"><?php echo $payment_address; ?></a>
+            ]]></add>
+        </operation>
+    </file>
+</modification>
