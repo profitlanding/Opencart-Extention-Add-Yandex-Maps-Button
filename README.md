@@ -1,4 +1,4 @@
-# Описание дополнения для OpenCart 2: Add Yandex Maps Button to Sales->Order->Info
+# Дополнение для OpenCart 2: Add Yandex Maps Button to Sales->Order->Info
 
 1. Данное дополнение добавляет кнопку "Показать адрес клиента на Яндекс.Картах" в карточке заказа sale/order/info
 Вы можете зайти в карточку оставленного клиентом заказа (Продажи - Заказы - Заказ XXX)
