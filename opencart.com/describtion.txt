@@ -1,0 +1,33 @@
+[url=http://www.opencart.com/index.php?route=download/download]
+[img]http://profitlanding.ru/opencart/images/opencart_2.1.0.1.png[/img]
+[/url]
+
+[b]Дополнение для OpenCart 2: Add Yandex Maps Button to Sales->Order->Info[/b]
+[url=https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/blob/master/images/screenshot.mini.png][img]https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/raw/master/images/screenshot.mini.png[/img][/url]
+[LIST=1]
+[*]Данное дополнение добавляет кнопку "Показать адрес клиента на Яндекс.Картах" в карточке заказа sale/order/info Вы можете зайти в карточку оставленного клиентом заказа (Продажи - Заказы - Заказ XXX) и нажать на появившуюся в верхнем правом углу кнопку "Показать адрес клиента на Яндекс.Картах", в новой вкладке откроются Яндекс.Карты с указанным в заказе адресом (при наличии информации сразу отобразится фото здания, просмотр панорамы улицы и др.)
+[*]Дополнение поддерживает версию OpenCart 2.1.0.1 Если вы тестировали работу дополнения на других версиях OpenCart 2, пожалуйста, сообщите об этом разработчику: [url=mailto:opencart@profitlanding.ru]opencart@profitlanding.ru[/url]
+[*]Дополнение использует встроенную в OpenCart 2 систему правки файлов OCMod и НЕ использует VQMod, никаких файлов копировать не требуется (файлы не заменяются), достаточно следовать инструкции:
+[/LIST]
+[b]Инструкция по установке[/b]
+[LIST=1]
+[*]Убедитесь, что версия вашего OpenCart 2.0.0.0 и выше (версия отображается в админ-панели внизу страницы)
+[*]Скачайте ZIP-архив дополнения
+[*]В админ-панели зайдите в "Дополнения" (Extensions) - "Установка дополнений" (Extension installer)
+[*]Нажмите "Загрузить" (Upload) и выберите архив add_yandex_maps_button.ocmod.zip
+[*]Зайдите в "Модификации" и нажмите справа вверху кнопку "Обновить" (Refresh). Это обновит кэш дополнений
+[/LIST]
+[b]Решения возможных проблем (FAQ)[/b]
+[LIST=1]
+[*]Если во время загрузки дополнения появилась ошибка подключения к FTP "Could not connect as ...", установите расширение "QuickFix: Extensions Installer issue when FTP support disabled", скачать можно по ссылке [url=http://www.opencart.com/index.php?route=extension/extension/info&extension_id=18892]http://www.opencart.com/index.php?route=extension/extension/info&extension_id=18892[/url]
+[*]Если возникла другая проблема, пожалуйста напишите разработчику на e-mail: [url=mailto:opencart@profitlanding.ru]opencart@profitlanding.ru[/url]
+[/LIST]
+[b]Использование и изменение[/b]
+[LIST=1]
+[*]Создано и поддерживается разработчиками агентства ProfitLanding.ru, Russia, Tomsk, 2015
+[*]Дополнение распространяется по лицензии GNU General Public License v2.0
+[*]Вы можете поучаствовать в разработке этого и других дополнений на GitHub: [url=https://github.com/profitlanding]https://github.com/profitlanding[/url]
+[*]Пожалуйста, добавляйте найденные баги и предложения на [url=https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/issues/new]https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/issues/new[/url]
+[*].
+[/LIST]
+[b]PS: Если наша работа, оказалась для вас полезной, пожалуйста проголосуйте за нее поставив соответствующий рейтинг.[/b]
