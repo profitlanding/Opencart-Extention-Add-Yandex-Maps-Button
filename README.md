@@ -1,5 +1,4 @@
 [![OpenCart Version](https://img.shields.io/badge/opencart-2.1.0.1-blue.svg)](http://www.opencart.com/index.php?route=download/download)
-[![Stories in Ready](https://badge.waffle.io/profitlanding/Opencart-Extention-Add-Yandex-Maps-Button.png?label=ready&title=Ready)](http://waffle.io/profitlanding/Opencart-Extention-Add-Yandex-Maps-Button)
 
 # Дополнение для OpenCart 2: Add Yandex Maps Button to Sales->Order->Info
 
@@ -41,15 +40,12 @@ http://www.opencart.com/index.php?route=extension/extension/info&extension_id=18
 2. Если возникла другая проблема, пожалуйста напишите разработчику на e-mail: opencart@profitlanding.ru
 
 
+# License
+[GNU General Public License version 3 (GPLv3)](https://github.com/opencart/opencart/blob/master/license.txt)
+
 # Использование и изменение
+- Расширение создано и поддерживается разработчиками агентства ProfitLanding.ru, Russia, Tomsk, 2015
 
-1. Создано и поддерживается разработчиками агентства ProfitLanding.ru, Russia, Tomsk, 2015
+- Вы можете поучаствовать в разработке этого и других дополнений на GitHub: https://github.com/profitlanding
 
-2. Дополнение распространяется по лицензии GNU General Public License v2.0
-
-3. Вы можете поучаствовать в разработке этого и других дополнений на GitHub: https://github.com/profitlanding
-
-4. Пожалуйста, добавляйте найденные баги и предложения на https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/issues/new
-
-Текущее состояние работы над багами и улучшениями можно посмотреть здесь:
-[![Stories in Ready](https://badge.waffle.io/profitlanding/Opencart-Extention-Add-Yandex-Maps-Button.png?label=ready&title=Ready)](http://waffle.io/profitlanding/Opencart-Extention-Add-Yandex-Maps-Button)
+- Пожалуйста, добавляйте найденные баги и предложения https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/issues/new
