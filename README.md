@@ -12,9 +12,10 @@
 
 2. Дополнение поддерживает версию OpenCart 2.1.0.1
 Если вы тестировали работу дополнения на других версиях OpenCart 2,
-пожалуйста, сообщите об этом разработчику: opencart@profitlanding.ru
+пожалуйста, сообщите об этом разработчику:
+https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/issues/new
 
-3. Дополнение использует встроенную в OpenCart 2 систему правки файлов OCMod и НЕ использует VQMod,
+3. Дополнение использует встроенную в OpenCart 2 систему правки файлов [OCMod](https://github.com/opencart/opencart/wiki/Modification-System) и НЕ использует [VQMod](https://github.com/vqmod/vqmod),
 никаких файлов копировать не требуется (файлы не заменяются), достаточно следовать инструкции:
 
 
