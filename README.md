@@ -12,8 +12,7 @@
 
 2. Дополнение поддерживает версию OpenCart 2.1.0.1
 Если вы тестировали работу дополнения на других версиях OpenCart 2,
-пожалуйста, сообщите об этом разработчику:
-https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/issues/new
+пожалуйста, [сообщите об этом разработчику](https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/issues/new)
 
 3. Дополнение использует встроенную в OpenCart 2 систему правки файлов [OCMod](https://github.com/opencart/opencart/wiki/Modification-System) и НЕ использует [VQMod](https://github.com/vqmod/vqmod),
 никаких файлов копировать не требуется (файлы не заменяются), достаточно следовать инструкции:
@@ -49,4 +48,4 @@ http://www.opencart.com/index.php?route=extension/extension/info&extension_id=18
 
 - Вы можете поучаствовать в разработке этого и других дополнений на GitHub: https://github.com/profitlanding
 
-- Пожалуйста, добавляйте найденные баги и предложения https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/issues/new
+- Пожалуйста, [добавляйте найденные баги и предложения](https://github.com/profitlanding/opencart-extention-add-yandex-maps-button/issues/new)
